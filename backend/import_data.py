@@ -1,8 +1,6 @@
 """
 import_data.py
 ==============
-Dữ liệu hardcode 100% từ PDF "Chương trình giáo dục đại học - CNTT - HCMUE 2024"
-Quyết định số 2619/QĐ-ĐHSP, ngày 04/09/2024
 
 Chạy: python import_data.py
 """

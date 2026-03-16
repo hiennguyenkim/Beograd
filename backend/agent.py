@@ -1,8 +1,8 @@
 """
 agent.py
 ========
-Agent tối ưu lộ trình học tập dựa trên Neo4j Knowledge Graph.
-Dùng llm7.io — OpenAI-compatible free API.
+Agent tối ưu lộ trình học tập truy xuất trực tiếp từ Neo4j Knowledge Graph.
+Dùng llm7.io / Groq — OpenAI-compatible free API.
 
 Chạy terminal : python agent.py
 Chạy API      : uvicorn agent:app --reload --port 8000
@@ -21,7 +21,9 @@ from neo4j_tools import (
     get_learning_path,
     check_prerequisites,
     optimize_semester_plan,
-    query_program_info,
+    get_program_overview,
+    get_course_details,
+    get_job_opportunities,
     close_driver,
 )
 
@@ -34,7 +36,9 @@ TOOL_FUNCTIONS = {
     "get_learning_path":      get_learning_path,
     "check_prerequisites":    check_prerequisites,
     "optimize_semester_plan": optimize_semester_plan,
-    "query_program_info":     query_program_info,
+    "get_program_overview":   get_program_overview,
+    "get_course_details":     get_course_details,
+    "get_job_opportunities":  get_job_opportunities,
 }
 
 SYSTEM_PROMPT = """Bạn là trợ lý tư vấn học tập thông minh của trường HCMUE -
@@ -43,10 +47,12 @@ Khoa Công nghệ thông tin. Bạn có khả năng truy cập Knowledge Graph c
 1. Gợi ý lộ trình học phù hợp với mục tiêu nghề nghiệp của sinh viên
 2. Kiểm tra điều kiện tiên quyết trước khi đăng ký môn học
 3. Lên kế hoạch học tập tối ưu theo số tín chỉ mong muốn
-4. Trả lời mọi câu hỏi về chương trình đào tạo
+4. Cung cấp thông tin tổng quan về chương trình học
+5. Tra cứu thông tin chi tiết của từng môn học cụ thể
+6. Tư vấn về các cơ hội việc làm sau khi tốt nghiệp
 
 Hãy luôn trả lời bằng tiếng Việt, thân thiện và dễ hiểu.
-Dùng tool để lấy dữ liệu thực từ hệ thống trước khi trả lời.
+Dùng tool để lấy dữ liệu thực từ hệ thống Knowledge Graph (Neo4j) trước khi trả lời.
 Nếu thiếu thông tin (ví dụ danh sách môn đã học), hãy hỏi lại người dùng."""
 
 # ── Tool schema (OpenAI format) ───────────────────────────────────────────────
@@ -129,20 +135,46 @@ TOOLS = [
     {
         "type": "function",
         "function": {
-            "name": "query_program_info",
+            "name": "get_program_overview",
             "description": (
-                "Hỏi đáp tự do về chương trình đào tạo: môn học, PLO, "
-                "học kỳ, vị trí việc làm, tổng tín chỉ, môn tự chọn, v.v."
+                "Lấy thông tin tổng quan về chương trình đào tạo "
+                "(tổng số tín chỉ, thời gian học, mã ngành)."
+            ),
+            "parameters": {
+                "type": "object",
+                "properties": {},
+            },
+        },
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "get_course_details",
+            "description": (
+                "Tra cứu chi tiết một môn học cụ thể (tín chỉ, học kỳ, điều kiện tiên quyết, phân loại)."
             ),
             "parameters": {
                 "type": "object",
                 "properties": {
-                    "question": {
+                    "course_name": {
                         "type": "string",
-                        "description": "Câu hỏi về chương trình đào tạo",
+                        "description": "Tên hoặc mã môn học (VD: Lập trình Python, COMP1001)"
                     }
                 },
-                "required": ["question"],
+                "required": ["course_name"],
+            },
+        },
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "get_job_opportunities",
+            "description": (
+                "Lấy danh sách các cơ hội nghề nghiệp và vị trí việc làm sau khi tốt nghiệp."
+            ),
+            "parameters": {
+                "type": "object",
+                "properties": {},
             },
         },
     },
@@ -228,7 +260,7 @@ class LearningPathAgent:
 
 def run_terminal():
     print("\n" + "=" * 60)
-    print("  TRỢ LÝ TƯ VẤN HỌC TẬP — HCMUE CNTT")
+    print("  TRỢ LÝ TƯ VẤN HỌC TẬP — HCMUE CNTT (NEO4J KG)")
     print("  Gõ 'quit' để thoát | 'reset' để bắt đầu lại")
     print("=" * 60)
 
@@ -238,7 +270,7 @@ def run_terminal():
     print("  • Gợi ý lộ trình học theo mục tiêu nghề nghiệp")
     print("  • Kiểm tra điều kiện tiên quyết môn học")
     print("  • Lên kế hoạch học tập tối ưu")
-    print("  • Trả lời câu hỏi về chương trình đào tạo\n")
+    print("  • Trả lời câu hỏi về chương trình đào tạo, việc làm, v.v.\n")
 
     while True:
         try:
@@ -277,8 +309,8 @@ try:
 
     app = FastAPI(
         title="Learning Path Agent API",
-        description="API tư vấn lộ trình học tập HCMUE CNTT",
-        version="1.0.0",
+        description="API tư vấn lộ trình học tập HCMUE CNTT (Dùng Knowledge Graph)",
+        version="2.0.0",
     )
     app.add_middleware(CORSMiddleware, allow_origins=["*"],
                        allow_methods=["*"], allow_headers=["*"])
