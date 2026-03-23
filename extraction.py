@@ -27,6 +27,7 @@ from pathlib import Path
 from typing import Any, Dict, List, Optional
 
 import pdfplumber
+
 from dotenv import load_dotenv
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_google_genai import ChatGoogleGenerativeAI
@@ -794,7 +795,6 @@ def run_pipeline(pdf_path: str) -> ExtractionStage1:
     logger.info(f"  → {len(final.courses)} học phần đã nạp vào Neo4j")
     logger.info("=" * 60)
     return final
-
 
 if __name__ == "__main__":
     PDF = "scripts/chuong_trinh_dao_tao.pdf"
