@@ -1,7 +1,7 @@
 """
-advanced_curriculum_parser.py
+extraction.py
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Module trích xuất dữ liệu "vắt kiệt" từ file PDF Chương trình đào tạo
+Module trích xuất dữ liệu từ file PDF Chương trình đào tạo
 và xây dựng Knowledge Graph chi tiết trên Neo4j.
 
 Pipeline 3 giai đoạn:

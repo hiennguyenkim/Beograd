@@ -2,10 +2,9 @@
 test_advisor.py
 ~~~~~~~~~~~~~~~
 Script chạy thử (Smoke Test) cho AcademicAdvisorAgent.
-Tách riêng khỏi advisor_agent.py để tránh chạy nhầm phần chat.
 """
 import logging
-from advisor_agent import AcademicAdvisorAgent
+from agent import AcademicAdvisorAgent
 
 # Thiết lập log mức INFO để theo dõi quá trình chạy
 logging.basicConfig(level=logging.INFO)

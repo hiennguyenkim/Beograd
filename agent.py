@@ -1,5 +1,5 @@
 """
-advisor_agent.py
+agent.py
 ~~~~~~~~~~~~~~~~
 AI Academic Advisor Agent — Production Grade
 
@@ -12,8 +12,8 @@ Schema Neo4j: Course, AcademicProgram, Khoa, PLO
 Relationships: THUOC_KHOA, TIEN_QUYET, HOC_TRUOC, SONG_HANH, DAP_UNG_PLO
 
 Cách chạy:
-    python -X utf8 advisor_agent.py            # Smoke test với câu hỏi mặc định
-    python -X utf8 advisor_agent.py --chat      # Chế độ chat tương tác
+    python -X utf8 agent.py            # Chạy chế độ Chat tương tác trực tiếp
+    python -X utf8 test_advisor.py     # Chạy bộ câu hỏi Smoke Test
 """
 
 import json
@@ -54,7 +54,7 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(name)s — %(message)s",
 )
-logger = logging.getLogger("advisor_agent")
+logger = logging.getLogger("agent")
 
 
 # ──────────────────────────────────────────────────────────────────────────
