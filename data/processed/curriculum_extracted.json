@@ -1,0 +1,2125 @@
+{
+  "program": {
+    "ma_nganh": "7480201",
+    "ten_nganh_vn": "Công nghệ thông tin",
+    "ten_nganh_en": "Information Technology",
+    "tong_tin_chi": 124,
+    "thoi_gian_dao_tao": "04 năm (08 học kì chính)",
+    "ten_van_bang_vn": "Công nghệ thông tin",
+    "ten_van_bang_en": "Information Technology",
+    "ty_le_truc_tuyen_toi_da": "30%",
+    "thang_diem": "Thang điểm 10, làm tròn đến một chữ số thập phân",
+    "chuan_ngoai_ngu": "Bậc 3 theo Khung Năng lực ngoại ngữ 6 bậc dùng cho Việt Nam"
+  },
+  "courses": [
+    {
+      "ma_mon": "POLI2001",
+      "ten_mon": "Triết học Mác – Lênin",
+      "so_tin_chi": 3,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 30,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 30,
+        "tu_hoc": 60
+      },
+      "don_vi_quan_ly": "K.GDCT",
+      "hoc_ky_du_kien": 1,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "POLI2002",
+      "ten_mon": "Kinh tế chính trị Mác – Lênin",
+      "so_tin_chi": 2,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 20,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 20,
+        "tu_hoc": 40
+      },
+      "don_vi_quan_ly": "K.GDCT",
+      "hoc_ky_du_kien": 2,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "POLI2001"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "POLI2003",
+      "ten_mon": "Chủ nghĩa xã hội khoa học",
+      "so_tin_chi": 2,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 20,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 20,
+        "tu_hoc": 40
+      },
+      "don_vi_quan_ly": "K.GDCT",
+      "hoc_ky_du_kien": 2,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "POLI2001"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "POLI2004",
+      "ten_mon": "Lịch sử Đảng Cộng sản Việt Nam",
+      "so_tin_chi": 2,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 20,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 20,
+        "tu_hoc": 40
+      },
+      "don_vi_quan_ly": "K.GDCT",
+      "hoc_ky_du_kien": 4,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "POLI2005"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "POLI2005",
+      "ten_mon": "Tư tưởng Hồ Chí Minh",
+      "so_tin_chi": 2,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 20,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 20,
+        "tu_hoc": 40
+      },
+      "don_vi_quan_ly": "K.GDCT",
+      "hoc_ky_du_kien": 3,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "POLI2003"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "POLI1903",
+      "ten_mon": "Pháp luật đại cương",
+      "so_tin_chi": 2,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 20,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 20,
+        "tu_hoc": 40
+      },
+      "don_vi_quan_ly": "K.GDCT",
+      "hoc_ky_du_kien": 1,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "PSYC1001",
+      "ten_mon": "Tâm lý học đại cương",
+      "so_tin_chi": 2,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 20,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 20,
+        "tu_hoc": 40
+      },
+      "don_vi_quan_ly": "K.TLH",
+      "hoc_ky_du_kien": 1,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "PHYL2401",
+      "ten_mon": "Giáo dục thể chất 1",
+      "so_tin_chi": 1,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 2,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 26,
+        "tu_hoc": 28
+      },
+      "don_vi_quan_ly": "K.GDTC",
+      "hoc_ky_du_kien": 1,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "PHYL2",
+      "ten_mon": "Giáo dục thể chất 2",
+      "so_tin_chi": 1,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 2,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 26,
+        "tu_hoc": 28
+      },
+      "don_vi_quan_ly": "K.GDTC",
+      "hoc_ky_du_kien": 2,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "PHYL3",
+      "ten_mon": "Giáo dục thể chất 3",
+      "so_tin_chi": 1,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 2,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 26,
+        "tu_hoc": 28
+      },
+      "don_vi_quan_ly": "K.GDTC",
+      "hoc_ky_du_kien": 3,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "MILI2701",
+      "ten_mon": "Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam",
+      "so_tin_chi": 3,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 37,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 8,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.GDQP",
+      "hoc_ky_du_kien": 1,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "MILI2702",
+      "ten_mon": "Công tác quốc phòng và an ninh",
+      "so_tin_chi": 2,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 22,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 8,
+        "tu_hoc": 30
+      },
+      "don_vi_quan_ly": "K.GDQP",
+      "hoc_ky_du_kien": 2,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "MILI2703",
+      "ten_mon": "Quân sự chung",
+      "so_tin_chi": 2,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 14,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 16,
+        "tu_hoc": 30
+      },
+      "don_vi_quan_ly": "K.GDQP",
+      "hoc_ky_du_kien": 3,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "MILI2704",
+      "ten_mon": "Kỹ thuật chiến đấu bộ binh và chiến thuật",
+      "so_tin_chi": 4,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 4,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 56,
+        "tu_hoc": 60
+      },
+      "don_vi_quan_ly": "K.GDQP",
+      "hoc_ky_du_kien": 4,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "MILI2703"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "EDUC2801",
+      "ten_mon": "Phương pháp học tập hiệu quả",
+      "so_tin_chi": 2,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 20,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 20,
+        "tu_hoc": 40
+      },
+      "don_vi_quan_ly": "K.KHGD",
+      "hoc_ky_du_kien": 2,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "PSYC1493",
+      "ten_mon": "Kỹ năng thích ứng và giải quyết vấn đề",
+      "so_tin_chi": 2,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 20,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 20,
+        "tu_hoc": 40
+      },
+      "don_vi_quan_ly": "K.TLH",
+      "hoc_ky_du_kien": 2,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "PSYC2801",
+      "ten_mon": "Kỹ năng làm việc nhóm và tư duy sáng tạo",
+      "so_tin_chi": 2,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 20,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 20,
+        "tu_hoc": 40
+      },
+      "don_vi_quan_ly": "K.TLH",
+      "hoc_ky_du_kien": 2,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "DOMS0",
+      "ten_mon": "Giáo dục đời sống",
+      "so_tin_chi": 2,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 10,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 40,
+        "tu_hoc": 50
+      },
+      "don_vi_quan_ly": "TNC",
+      "hoc_ky_du_kien": 2,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1501",
+      "ten_mon": "Xác suất thống kê và ứng dụng",
+      "so_tin_chi": 3,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 3,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1802",
+      "ten_mon": "Thiết kế Web",
+      "so_tin_chi": 2,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 20,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 20,
+        "tu_hoc": 40
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 1,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1801",
+      "ten_mon": "Toán rời rạc và ứng dụng",
+      "so_tin_chi": 2,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 30,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 30
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 1,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1800",
+      "ten_mon": "Cơ sở toán trong CNTT",
+      "so_tin_chi": 4,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 60,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 60
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 1,
+      "mo_ta_tom_tat": "Học phần trang bị kiến thức cơ sở về toán học ứng dụng trong CNTT như ma trận, hệ phương trình, không gian véc tơ, ánh xạ tuyến tính, giá trị riêng - vectơ riêng, chéo hóa ma trận và dạng toàn phương, giúp sinh viên vận dụng giải quyết vấn đề chuyên ngành.",
+      "so_chuong_ly_thuyet": 8,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1010",
+      "ten_mon": "Lập trình cơ bản",
+      "so_tin_chi": 3,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 30,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 30,
+        "tu_hoc": 60
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 1,
+      "mo_ta_tom_tat": "Học phần cung cấp kiến thức cơ bản về lập trình, ngôn ngữ lập trình, chương trình dịch và tầm quan trọng của giải thuật, đồng thời củng cố kỹ năng lập trình cho người học.",
+      "so_chuong_ly_thuyet": 7,
+      "so_bai_thuc_hanh_chi_tiet": 7,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1013",
+      "ten_mon": "Lập trình nâng cao",
+      "so_tin_chi": 3,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 30,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 30,
+        "tu_hoc": 60
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 2,
+      "mo_ta_tom_tat": "Học phần trang bị các kỹ thuật lập trình nâng cao như quản lý vùng nhớ, thao tác dữ liệu có cấu trúc, quản lý dữ liệu trên thiết bị lưu trữ ngoài, và cách viết chương trình lớn, có độ tin cậy, khả năng sử dụng lại.",
+      "so_chuong_ly_thuyet": 7,
+      "so_bai_thuc_hanh_chi_tiet": 7,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1010"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1017",
+      "ten_mon": "Lập trình hướng đối tượng",
+      "so_tin_chi": 3,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 30,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 30,
+        "tu_hoc": 60
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 2,
+      "mo_ta_tom_tat": "Học phần cung cấp kiến thức cơ bản về phương pháp lập trình hướng đối tượng, định hướng phân tích, thiết kế chương trình sử dụng các khái niệm kiểu dữ liệu trừu tượng, sự kế thừa, tính đa hình.",
+      "so_chuong_ly_thuyet": 5,
+      "so_bai_thuc_hanh_chi_tiet": 10,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1010"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1502",
+      "ten_mon": "Quy hoạch tuyến tính và ứng dụng",
+      "so_tin_chi": 3,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 6,
+      "mo_ta_tom_tat": "Học phần cung cấp kiến thức cơ bản về quy hoạch tuyến tính, bao gồm phương pháp đơn hình, đơn hình mở rộng, lí thuyết đối ngẫu, bài toán vận tải và phương pháp phân phối, chú trọng tính ứng dụng.",
+      "so_chuong_ly_thuyet": 5,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1800"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1011",
+      "ten_mon": "Kiến trúc máy tính và hợp ngữ",
+      "so_tin_chi": 3,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 4,
+      "mo_ta_tom_tat": "Học phần trang bị kiến thức về kiến trúc, thiết kế máy tính, mạch số cơ bản, phương pháp đo năng lực, bộ lệnh, hệ thống phần cứng, xử lí, bộ nhớ, hệ số đếm, kiến trúc mẫu, thành phần CPU và lập trình hợp ngữ.",
+      "so_chuong_ly_thuyet": 6,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [
+        "Hợp ngữ"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1016",
+      "ten_mon": "Cấu trúc dữ liệu",
+      "so_tin_chi": 3,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 30,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 30,
+        "tu_hoc": 60
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 3,
+      "mo_ta_tom_tat": "Học phần trang bị phương pháp tổ chức và thao tác cơ sở trên các cấu trúc dữ liệu như mảng, danh sách liên kết, ngăn xếp, hàng đợi, cây, giúp sinh viên hiểu tầm quan trọng của giải thuật và củng cố kỹ năng lập trình trên C++.",
+      "so_chuong_ly_thuyet": 6,
+      "so_bai_thuc_hanh_chi_tiet": 6,
+      "ngon_ngu_cong_cu": [
+        "C++"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1010"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1018",
+      "ten_mon": "Cơ sở dữ liệu",
+      "so_tin_chi": 3,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 30,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 30,
+        "tu_hoc": 60
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 3,
+      "mo_ta_tom_tat": "Học phần trang bị khái niệm về dữ liệu, cơ sở dữ liệu, hệ quản trị CSDL, mô hình quan hệ, ngôn ngữ thao tác, phương pháp thiết kế CSDL, cập nhật vấn đề mới như dạng chuẩn, an toàn, bảo mật, và thực hành trên SQL-Server.",
+      "so_chuong_ly_thuyet": 7,
+      "so_bai_thuc_hanh_chi_tiet": 7,
+      "ngon_ngu_cong_cu": [
+        "SQL-Server"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1010"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1401",
+      "ten_mon": "Phân tích và thiết kế giải thuật",
+      "so_tin_chi": 3,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 4,
+      "mo_ta_tom_tat": "Học phần trang bị kỹ thuật phân tích và thiết kế giải thuật hiệu quả, tập trung vào độ phức tạp, sắp xếp, bảng băm, chia để trị, quy hoạch động, tham lam, đồ thị, đường đi ngắn nhất, tính toán ma trận và đa thức.",
+      "so_chuong_ly_thuyet": 7,
+      "so_bai_thuc_hanh_chi_tiet": 14,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1010"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1019",
+      "ten_mon": "Lập trình trên Windows",
+      "so_tin_chi": 3,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 30,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 30,
+        "tu_hoc": 60
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 3,
+      "mo_ta_tom_tat": "Học phần giới thiệu về cơ chế quản lý chương trình, lập trình giao diện đồ họa, quản lý bộ nhớ, kỹ thuật in ấn trên Windows. Sinh viên sẽ học và sử dụng ngôn ngữ lập trình C#, cùng các công nghệ và mô hình thông dụng khi xây dựng ứng dụng Windows.",
+      "so_chuong_ly_thuyet": 7,
+      "so_bai_thuc_hanh_chi_tiet": 5,
+      "ngon_ngu_cong_cu": [
+        "C#",
+        "Windows"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1017"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1015",
+      "ten_mon": "Nhập môn mạng máy tính",
+      "so_tin_chi": 3,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 4,
+      "mo_ta_tom_tat": "Học phần cung cấp kiến thức cơ bản về mạng máy tính, các phương thức giao tiếp, mô hình OSI, TCP/IP, và dịch vụ mạng. Sinh viên sẽ nắm được các khái niệm cơ bản, nhận biết và phân loại thiết bị mạng, đồng thời vận dụng kiến thức để phân tích, thiết kế, vận hành, quản trị và chẩn đoán sự cố mạng.",
+      "so_chuong_ly_thuyet": 8,
+      "so_bai_thuc_hanh_chi_tiet": 5,
+      "ngon_ngu_cong_cu": [
+        "OSI",
+        "TCP/IP",
+        "Windows 2003 Server"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "PSYC2804",
+      "ten_mon": "Phương pháp nghiên cứu khoa học",
+      "so_tin_chi": 2,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 20,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 20,
+        "tu_hoc": 40
+      },
+      "don_vi_quan_ly": "K.TLH",
+      "hoc_ky_du_kien": 2,
+      "mo_ta_tom_tat": "Học phần cung cấp kiến thức nền tảng về phương pháp nghiên cứu khoa học, bao gồm các vấn đề chung, quy trình thực hiện, phương pháp nghiên cứu, và cách xây dựng đề cương, báo cáo kết quả. Giúp người học thực hiện và trình bày được một công trình nghiên cứu khoa học.",
+      "so_chuong_ly_thuyet": 4,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1829",
+      "ten_mon": "Quản lý công việc hiệu quả theo Agile",
+      "so_tin_chi": 2,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 30,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 30
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 4,
+      "mo_ta_tom_tat": "Học phần cung cấp kiến thức và kỹ năng quản lý công việc và dự án hiệu quả theo bộ khung Agile. Bao gồm giới thiệu Agile, Scrum, Kanban, lập kế hoạch, ước lượng, thực thi, tạo động lực nhóm, công cụ (JIRA, Trello), mở rộng mô hình (SAFe, LeSS) và cải tiến liên tục.",
+      "so_chuong_ly_thuyet": 8,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [
+        "Agile",
+        "Scrum",
+        "Kanban",
+        "JIRA",
+        "Trello",
+        "SAFe",
+        "LeSS",
+        "Kaizen"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1701",
+      "ten_mon": "Lý thuyết đồ thị và ứng dụng",
+      "so_tin_chi": 3,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 3,
+      "mo_ta_tom_tat": "Học phần trang bị các khái niệm cơ sở của lí thuyết đồ thị như đường đi, chu trình, liên thông, đồ thị Euler, đồ thị Hamilton, cùng các thuật toán tìm đường đi ngắn nhất, duyệt cây, tìm cây tối đại. Cung cấp ứng dụng thực tiễn của lí thuyết đồ thị để giải quyết các bài toán trong thực tế.",
+      "so_chuong_ly_thuyet": 6,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1332",
+      "ten_mon": "Hệ điều hành",
+      "so_tin_chi": 3,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 4,
+      "mo_ta_tom_tat": "Học phần trang bị kiến thức cơ bản về hệ điều hành và các phương thức hoạt động như xử lý tin, bộ nhớ, nhập xuất, cấu trúc lưu trữ, xử lý ngắt, lập lịch, quản lý tập tin, bảo vệ phần cứng. Bao gồm cấu trúc, nguyên lý hoạt động, process, thread, quản lý bộ nhớ, xuất nhập, hệ thống tệp tin của hệ điều hành.",
+      "so_chuong_ly_thuyet": 7,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1043",
+      "ten_mon": "Hệ thống mã nguồn mở",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 5,
+      "mo_ta_tom_tat": "Học phần cung cấp kiến thức và kỹ năng để sử dụng, triển khai và phát triển các hệ thống mã nguồn mở. Bao gồm giới thiệu mã nguồn mở, bắt đầu dự án, quản lý mã nguồn (GIT), giấy phép (copyleft, copyright), hệ điều hành mã nguồn mở (Linux), chiến lược phát triển FOSS và phân tích hệ điều hành Linux.",
+      "so_chuong_ly_thuyet": 7,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [
+        "GIT",
+        "Linux",
+        "FOSS"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1308",
+      "ten_mon": "Phát triển ứng dụng trò chơi",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 30,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 30,
+        "tu_hoc": 60
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 5,
+      "mo_ta_tom_tat": "Học phần trang bị kiến thức cơ bản về lập trình game, quy trình phát triển, thành phần, thiết kế game và các game engine. Sinh viên được cung cấp kiến thức về đồ họa 2D, 3D và cách lập trình game 2D, 3D, biên dịch ra các nền tảng phổ biến như iOS, Android, Windows 10/11, PC/Mac.",
+      "so_chuong_ly_thuyet": 7,
+      "so_bai_thuc_hanh_chi_tiet": 6,
+      "ngon_ngu_cong_cu": [
+        "iOS",
+        "Android",
+        "Windows 10/11",
+        "PC/Mac"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1017"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1047",
+      "ten_mon": "Đồ hoạ máy tính",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 30,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 30,
+        "tu_hoc": 60
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 6,
+      "mo_ta_tom_tat": "Học phần cung cấp kiến thức cơ bản về cấu trúc, chức năng của các thiết bị thành phần trong hệ thống đồ họa máy tính. Trang bị kiến thức, giải thuật đồ họa máy tính 2 và 3 chiều, và ứng dụng thực tế. Trọng tâm là yêu cầu người học viết được các ứng dụng đồ họa 2 hoặc 3 chiều cụ thể.",
+      "so_chuong_ly_thuyet": 6,
+      "so_bai_thuc_hanh_chi_tiet": 5,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1712",
+      "ten_mon": "Học máy",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 30,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 30,
+        "tu_hoc": 60
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 5,
+      "mo_ta_tom_tat": "Học phần cung cấp kiến thức và kỹ năng cơ bản để phát triển và áp dụng các thuật toán học máy trên dữ liệu thực tế. Bao gồm giới thiệu học máy, giảm đạo hàm, xây dựng tập dữ liệu, giải thuật học không giám sát (k-Trung bình), học giám sát (hồi quy tuyến tính, Random Forest), học không tham số (cây quyết định), học tham số (Naïve Bayes, mạng nơron).",
+      "so_chuong_ly_thuyet": 7,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1050",
+      "ten_mon": "Xử lý ảnh số",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 30,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 30,
+        "tu_hoc": 60
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 5,
+      "mo_ta_tom_tat": "Học phần trình bày kiến thức và phương pháp xử lý ảnh phổ biến như nâng cao chất lượng, phục hồi ảnh, làm nổi bật đặc trưng. Trọng tâm là yêu cầu người học giải quyết các bài toán xử lý ảnh với ngôn ngữ C++, C# Python hoặc MATLAB cụ thể dựa trên các kiến thức cơ bản về xử lý ảnh.",
+      "so_chuong_ly_thuyet": 8,
+      "so_bai_thuc_hanh_chi_tiet": 6,
+      "ngon_ngu_cong_cu": [
+        "C++",
+        "C#",
+        "Python",
+        "MATLAB"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1019"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1709",
+      "ten_mon": "Hệ thống nhúng và ứng dụng",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 30,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 30,
+        "tu_hoc": 60
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 5,
+      "mo_ta_tom_tat": "Học phần trình bày cách tiếp cận khoa học máy tính cho giáo dục dựa trên sử dụng ngôn ngữ lập trình trong các ngữ cảnh đa dạng: Tangible programming, Graphical programming, syntax based traditional programming sử dụng opensource hardware Arduino và Raspberry Pi. Hỗ trợ kỹ năng giảng dạy STEM và phát triển sản phẩm thực tế.",
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [
+        "Arduino",
+        "Raspberry Pi",
+        "Tangible programming",
+        "Graphical programming",
+        "Scratch programming"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1017"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1304",
+      "ten_mon": "Phát triển ứng dụng trên thiết bị di động",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 30,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 30,
+        "tu_hoc": 60
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 5,
+      "mo_ta_tom_tat": "Học phần cung cấp kiến thức và kỹ năng nâng cao, chuyên sâu trong lập trình di động trên nền tảng Android. Đồng thời, cung cấp thông tin về kiến trúc và cách thức làm việc chung để sinh viên có thể tự nghiên cứu và tìm hiểu nhiều nền tảng di động khác.",
+      "so_chuong_ly_thuyet": 6,
+      "so_bai_thuc_hanh_chi_tiet": 6,
+      "ngon_ngu_cong_cu": [
+        "Android"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1024",
+      "ten_mon": "Các hệ cơ sở dữ liệu",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 36,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 18,
+        "tu_hoc": 54
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 5,
+      "mo_ta_tom_tat": "Học phần trang bị kiến thức quản lý dữ liệu và thao tác trên hệ quản trị cơ sở dữ liệu MS SQL Server. Giúp sinh viên hiểu tầm quan trọng của việc truy vấn dữ liệu tối ưu, xử lý truy xuất đồng thời, sử dụng cursor trong lập trình cơ sở dữ liệu và cách tổ chức lưu trữ dữ liệu trên thiết bị lưu trữ.",
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [
+        "MS SQL Server",
+        "SQL"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1018"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1305",
+      "ten_mon": "Quản lý dự án Công nghệ Thông tin",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 5,
+      "mo_ta_tom_tat": "Học phần giúp sinh viên nắm vững các phương pháp và công cụ quản lý dự án CNTT hiện đại. Bao gồm giới thiệu quản lý dự án, quản lý dự án CNTT, lập kế hoạch (Gantt, PERT), quản lý chất lượng, rủi ro, cấu trúc tổ chức, quản lý cấu hình phần mềm và ước lượng giá phí.",
+      "so_chuong_ly_thuyet": 8,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [
+        "Gantt",
+        "PERT"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "PSYC2803",
+      "ten_mon": "Khởi nghiệp",
+      "so_tin_chi": 2,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 20,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 20,
+        "tu_hoc": 40
+      },
+      "don_vi_quan_ly": "K.TLH",
+      "hoc_ky_du_kien": 7,
+      "mo_ta_tom_tat": "Học phần Khởi nghiệp trang bị tri thức cơ bản về khởi nghiệp, ý tưởng, cơ hội, và các kĩ năng như xây dựng mô hình kinh doanh, tạo lập tổ chức, huy động vốn. Người học vận dụng để phân tích mô hình kinh doanh, xây dựng đội nhóm và nhận diện, huy động nguồn vốn hỗ trợ khởi nghiệp.",
+      "so_chuong_ly_thuyet": 5,
+      "so_bai_thuc_hanh_chi_tiet": 6,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1044",
+      "ten_mon": "Nhập môn công nghệ phần mềm",
+      "so_tin_chi": 3,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 5,
+      "mo_ta_tom_tat": "Học phần giới thiệu tổng quan về công nghệ phần mềm, bao gồm khái niệm, quy trình, phương pháp xây dựng và công cụ hỗ trợ. Sinh viên học khảo sát yêu cầu (Use-case, BPM), phân tích, thiết kế, cài đặt (1, 2, 3 lớp), kiểm chứng và triển khai, bảo trì phần mềm, đáp ứng quy trình phát triển hiện đại.",
+      "so_chuong_ly_thuyet": 7,
+      "so_bai_thuc_hanh_chi_tiet": 7,
+      "ngon_ngu_cong_cu": [
+        "Use-case",
+        "BPM"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1017"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1314",
+      "ten_mon": "Trí tuệ nhân tạo",
+      "so_tin_chi": 3,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 5,
+      "mo_ta_tom_tat": "Học phần cung cấp kiến thức tổng quát về trí tuệ nhân tạo (AI), vai trò và ứng dụng trong đời sống. Nội dung bao gồm cơ sở lý thuyết, công nghệ và kỹ thuật giải quyết bài toán thực tế dựa trên các giải thuật tìm kiếm heuristic, metaheuristic, hệ thống suy diễn tập luật, mạng Bayes, và phát triển ứng dụng như lọc email rác, chatbot.",
+      "so_chuong_ly_thuyet": 5,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1701"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1803",
+      "ten_mon": "Lập trình PHP",
+      "so_tin_chi": 3,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 30,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 30,
+        "tu_hoc": 60
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 6,
+      "mo_ta_tom_tat": "Học phần trang bị kiến thức nền tảng lập trình web động với PHP, bao gồm cú pháp, biến, cấu trúc điều khiển, hướng đối tượng, xử lý tập tin và tương tác MySQL. Giới thiệu mô hình MVC và kỹ năng bảo mật web. Sinh viên thực hành xây dựng, triển khai ứng dụng web thực tế, phát triển kỹ năng sáng tạo và xử lý lỗi.",
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [
+        "PHP",
+        "MySQL",
+        "MVC"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1013"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1060",
+      "ten_mon": "Phân tích thiết kế hướng đối tượng",
+      "so_tin_chi": 3,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 36,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 18,
+        "tu_hoc": 54
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 5,
+      "mo_ta_tom_tat": "Học phần trang bị kiến thức xây dựng và phát triển phần mềm theo ngôn ngữ mô hình hóa UML. Sinh viên vận dụng kiến thức để phân tích, thiết kế cho dự án công nghệ phần mềm cụ thể.",
+      "so_chuong_ly_thuyet": 6,
+      "so_bai_thuc_hanh_chi_tiet": 6,
+      "ngon_ngu_cong_cu": [
+        "UML"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1017"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1041",
+      "ten_mon": "Cơ sở dữ liệu nâng cao",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 5,
+      "mo_ta_tom_tat": "Học phần gồm 5 phần chính: Cơ sở dữ liệu hướng đối tượng, NoSQL, Hàm băm và chỉ mục, Cơ sở dữ liệu đồ thị, và Hệ thống truy vấn thông tin. Trang bị kiến thức và kỹ năng áp dụng công nghệ hiện đại trong lĩnh vực cơ sở dữ liệu, nâng cao khả năng giải quyết vấn đề thực tiễn.",
+      "so_chuong_ly_thuyet": 5,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [
+        "NoSQL"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1018"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1071",
+      "ten_mon": "Nghi thức giao tiếp mạng (CISCO 1)",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 30,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 30,
+        "tu_hoc": 60
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 5,
+      "mo_ta_tom_tat": "Học phần này bao gồm 8 phần chính: Tổng quan về thiết bị Cisco trong mạng LAN, Cấu hình VLAN và Trunk, Tăng hiệu năng và tính ổn định mạng với Spanning Tree, Định tuyến động trong mạng, Giao thức định tuyến RIP, Định tuyến bằng giao thức EIGRP và OSPF cơ bản, Quản lý truy cập bằng Access Control Lists (ACLs), và Cấu hình các kỹ thuật NAT, PAT và DHCP Server. Cung cấp kiến thức và kỹ năng quản lý, cấu hình hệ thống mạng sử dụng thiết bị Cisco, nắm vững khái niệm cơ bản, phương thức kết nối, giao thức định tuyến để thiết lập và bảo trì mạng LAN quy mô đến 200 máy.",
+      "so_chuong_ly_thuyet": 8,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [
+        "Cisco",
+        "VLAN",
+        "Trunk",
+        "Spanning Tree",
+        "RIP",
+        "EIGRP",
+        "OSPF",
+        "ACLs",
+        "NAT",
+        "PAT",
+        "DHCP Server"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1015"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1307",
+      "ten_mon": "Kiểm thử phần mềm cơ bản",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 5,
+      "mo_ta_tom_tat": "Học phần trang bị kiến thức, kỹ năng và quy trình kiểm định chất lượng phần mềm. Bao gồm 6 phần lý thuyết và 3 bài thực hành, môn học cũng trình bày một số công cụ kiểm thử phần mềm thông qua lập trình.",
+      "so_chuong_ly_thuyet": 6,
+      "so_bai_thuc_hanh_chi_tiet": 3,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1703",
+      "ten_mon": "Phát triển ứng dụng trên thiết bị di động nâng cao",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 30,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 30,
+        "tu_hoc": 60
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 7,
+      "mo_ta_tom_tat": "Học phần cung cấp kiến thức và kỹ năng nâng cao, chuyên sâu trong lập trình di động trên nền tảng Android. Gồm 6 phần lý thuyết và 6 bài thực hành, môn học còn cung cấp thông tin về kiến trúc và cách thức làm việc chung để sinh viên tự nghiên cứu các nền tảng di động khác.",
+      "so_chuong_ly_thuyet": 6,
+      "so_bai_thuc_hanh_chi_tiet": 6,
+      "ngon_ngu_cong_cu": [
+        "Android"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1304"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1032",
+      "ten_mon": "Phân tích và thiết kế hệ thống thông tin",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 5,
+      "mo_ta_tom_tat": "Học phần trang bị khái niệm, phương pháp, kỹ thuật, kỹ năng phân tích và thiết kế hệ thống thông tin, chú trọng thành phần dữ liệu và xử lý. Áp dụng ngôn ngữ mô hình hóa UML. Gồm 9 phần lý thuyết và bài tập thực hành, kiến thức được vận dụng vào nghiên cứu tình huống và tiểu luận thực tế, cài đặt với phần mềm quản trị CSDL.",
+      "so_chuong_ly_thuyet": 9,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [
+        "UML"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1018"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1306",
+      "ten_mon": "Xây dựng dự án Công nghệ thông tin",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 6,
+      "mo_ta_tom_tat": "Học phần này bao gồm 5 phần lý thuyết và 8 bài thực hành: (1) giới thiệu chung; (2) đề xuất dự án CNTT; (3) phân tích SWOT; (4) ước lượng và quản lý rủi ro; và (5) case study. Trang bị kiến thức và kỹ thuật cơ bản, nắm vững khái niệm và kỹ năng làm việc trong lĩnh vực xây dựng dự án phần mềm. Giúp người học hiểu tầm quan trọng của việc tính toán thời lượng, chi phí dự toán, và phát triển năng lực quản lý, kiểm soát nhóm.",
+      "so_chuong_ly_thuyet": 5,
+      "so_bai_thuc_hanh_chi_tiet": 8,
+      "ngon_ngu_cong_cu": [
+        "SWOT"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1044"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1326",
+      "ten_mon": "Lắp ráp, cài đặt và bảo trì máy tính",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 6,
+      "mo_ta_tom_tat": "Học phần này bao gồm 5 phần lý thuyết và 9 bài thực hành: (1) đại cương về phần cứng và quy trình cài đặt máy tính; (2) các chuẩn giao tiếp linh kiện và thiết bị; (3) quy trình thao tác lắp ráp và bảo trì; (4) quy trình cài đặt hệ điều hành và ứng dụng; và (5) các nguyên tắc bảo trì và nâng cấp. Trang bị kiến thức và kỹ thuật cơ bản về quy trình, thao tác kỹ thuật, và tiêu chuẩn an toàn trong lắp ráp, cài đặt, bảo trì máy tính. Giúp người học hiểu chuẩn giao tiếp phần cứng, đọc thông số kỹ thuật, lựa chọn cấu hình, và thực hiện lắp ráp, cài đặt, bảo trì máy tính cá nhân an toàn, hiệu quả.",
+      "so_chuong_ly_thuyet": 5,
+      "so_bai_thuc_hanh_chi_tiet": 9,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1076",
+      "ten_mon": "Quản trị mạng với Linux",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 30,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 30,
+        "tu_hoc": 60
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 6,
+      "mo_ta_tom_tat": "Học phần này bao gồm 9 phần chính: (1) giới thiệu về Linux; (2) hệ thống Shell trong Linux; (3) cấu hình mạng và quản lý người dùng; (4) DHCP, NFS và SAMBA; (5) DNS; (6) FTP, Web, Database, Mail; (7) Proxy và Firewall; (8) Cloud computing với Linux; và (9) các phương pháp tăng hiệu năng và tính ổn định. Cung cấp kiến thức và kỹ năng cơ bản về cài đặt, cấu hình, quản trị hệ điều hành Linux. Trang bị khả năng quản lý mạng LAN dưới 100 máy, triển khai hệ thống máy chủ, và sử dụng các dịch vụ thông dụng trên nền tảng Linux.",
+      "so_chuong_ly_thuyet": 9,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [
+        "Linux",
+        "Shell",
+        "DHCP",
+        "NFS",
+        "SAMBA",
+        "DNS",
+        "FTP",
+        "Web",
+        "Database",
+        "Mail",
+        "Proxy",
+        "Firewall",
+        "Cloud computing"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1015"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1804",
+      "ten_mon": "Lập trình Python",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 36,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 18,
+        "tu_hoc": 54
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 5,
+      "mo_ta_tom_tat": "Học phần trang bị kiến thức ngôn ngữ lập trình Python từ cơ bản (biến, kiểu dữ liệu, cấu trúc điều khiển, hàm, OOP) đến ứng dụng thực tế như xây dựng giao diện, thu thập, phân tích, biểu đồ hóa dữ liệu và xây dựng API. Gồm 7 phần lý thuyết và 11 bài thực hành.",
+      "so_chuong_ly_thuyet": 7,
+      "so_bai_thuc_hanh_chi_tiet": 11,
+      "ngon_ngu_cong_cu": [
+        "Python"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1315",
+      "ten_mon": "Khai thác dữ liệu và ứng dụng",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 6,
+      "mo_ta_tom_tat": "Học phần này bao gồm 6 phần chính: (1) tổng quan về khai thác dữ liệu, (2) khai thác mẫu dữ liệu thường xuyên, (3) khai thác mẫu dữ liệu ràng buộc, (4) khai thác mẫu dữ liệu đồ thị, (5) phân cụm mẫu dữ liệu, và (6) phân loại mẫu dữ liệu. Trang bị kiến thức và kỹ năng cần thiết để khai thác dữ liệu, sử dụng các giải thuật và mô hình phân tích nhằm trích xuất thông tin giá trị từ các tập dữ liệu lớn. Giúp sinh viên vận dụng kiến thức cơ sở ngành, cùng các mô hình và giải pháp công nghệ tiên tiến trong lĩnh vực CNTT, đáp ứng hiệu quả các yêu cầu thực tiễn trong quá trình ra quyết định và hoạch định chiến lược.",
+      "so_chuong_ly_thuyet": 6,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1018"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1714",
+      "ten_mon": "Khai thác dữ liệu văn bản",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 7,
+      "mo_ta_tom_tat": "Cung cấp các phương pháp và kỹ thuật khai thác văn bản dựa trên máy học, xử lý ngôn ngữ tự nhiên và thống kê, ứng dụng trong tổ chức thông tin, thông minh doanh nghiệp và phân tích hành vi xã hội. Giúp sinh viên giải quyết bài toán thực tế, nhận biết xu hướng và vận dụng công cụ hiện đại để khai thác thông tin từ dữ liệu văn bản.",
+      "so_chuong_ly_thuyet": 7,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [
+        "máy học",
+        "xử lý ngôn ngữ tự nhiên"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1314"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1309",
+      "ten_mon": "Kiểm thử phần mềm nâng cao",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 7,
+      "mo_ta_tom_tat": "Cung cấp các phương pháp và công cụ kiểm thử phần mềm tiên tiến như Quick Test Pro (QTP), Selenium, kiểm thử ứng dụng di động và framework kiểm thử tự động. Giúp sinh viên phát triển năng lực chuyên môn, tiếp cận và áp dụng các giải pháp kiểm thử hiện đại để tối ưu hóa chất lượng sản phẩm.",
+      "so_chuong_ly_thuyet": 5,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [
+        "Quick Test Pro",
+        "Selenium"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1044"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1318",
+      "ten_mon": "Các phương pháp học thống kê",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 6,
+      "mo_ta_tom_tat": "Cung cấp các phương pháp và kỹ thuật thống kê hiện đại như hồi quy, phân tích khác biệt tuyến tính, lấy mẫu lại và phương pháp dựa trên cây. Giúp sinh viên vận dụng kiến thức toán học cơ sở để giải quyết vấn đề CNTT, phát triển năng lực chuyên môn và ứng dụng các phương pháp thống kê tiên tiến trong thực tiễn.",
+      "so_chuong_ly_thuyet": 7,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1501"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1715",
+      "ten_mon": "Xử lý ngôn ngữ tự nhiên",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 6,
+      "mo_ta_tom_tat": "Cung cấp các phương pháp và công cụ trong xử lý ngôn ngữ tự nhiên, bao gồm văn phạm, phân tích cú pháp, phương pháp thống kê trong phân tích đa nghĩa, ngữ nghĩa và dạng thức logic. Giúp sinh viên phát triển năng lực chuyên môn, vận dụng kiến thức và kỹ năng lập trình để phát triển ứng dụng XLNNTN.",
+      "so_chuong_ly_thuyet": 6,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1704",
+      "ten_mon": "Nhập môn DevOps",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 6,
+      "mo_ta_tom_tat": "Cung cấp kiến thức, kỹ năng và quy trình phát triển phần mềm (DevOps), tối ưu hóa chu trình phát triển để sản phẩm IT được release nhanh và thường xuyên hơn. Giúp người học xây dựng quy trình triển khai dự án công nghệ phần mềm cụ thể.",
+      "so_chuong_ly_thuyet": 8,
+      "so_bai_thuc_hanh_chi_tiet": 5,
+      "ngon_ngu_cong_cu": [
+        "DevOps"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1044"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1046",
+      "ten_mon": "Các hệ cơ sở tri thức",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 6,
+      "mo_ta_tom_tat": "Trang bị kiến thức và kỹ năng xây dựng, quản lý các hệ thống cơ sở tri thức, áp dụng các giải pháp, mô hình và công nghệ mới trong CNTT. Giúp sinh viên phát triển kỹ năng nhận thức về nhu cầu xã hội, xu hướng ngành, xác định cơ hội và triển khai giải pháp phù hợp, ứng phó linh hoạt với thách thức nghề nghiệp.",
+      "so_chuong_ly_thuyet": 6,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1701"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1310",
+      "ten_mon": "Hệ tư vấn thông tin",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 6,
+      "mo_ta_tom_tat": "Cung cấp kiến thức và kỹ năng thiết kế, tối ưu hóa hệ thống tư vấn thông tin, bao gồm các cách tiếp cận dựa trên cộng tác, nội dung, tri thức và hệ thống lai ghép. Giúp người học vận dụng kiến thức toán học và lập trình để giải quyết bài toán tư vấn thông tin thực tế, áp dụng các phương pháp lọc và kỹ thuật học máy.",
+      "so_chuong_ly_thuyet": 6,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [
+        "học máy"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1018"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1031",
+      "ten_mon": "Công nghệ Web",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 6,
+      "mo_ta_tom_tat": "Cung cấp kiến thức và kỹ năng thiết kế, xây dựng ứng dụng web Fullstack với các công nghệ hiện đại như ReactJS, Angular, Vue.js, Python FastAPI, Express, Next.js, Redis, Apache Kafka. Giúp người học nắm bắt, vận dụng sáng tạo các công nghệ web tiên tiến để thiết kế và triển khai ứng dụng web hiệu quả.",
+      "so_chuong_ly_thuyet": 7,
+      "so_bai_thuc_hanh_chi_tiet": 5,
+      "ngon_ngu_cong_cu": [
+        "ReactJS",
+        "Angular",
+        "Vue.js",
+        "Python FastAPI",
+        "Express",
+        "Next.js",
+        "Redis",
+        "Apache Kafka",
+        "JavaScript"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1064",
+      "ten_mon": "Công nghệ NET",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 36,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 18,
+        "tu_hoc": 54
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 6,
+      "mo_ta_tom_tat": "Cung cấp kỹ năng lập trình và phát triển ứng dụng Web trên nền tảng .NET framework, bao gồm kiến thức cơ bản về .NET Core, MVC Core, Web API Core, Unit testing và triển khai ứng dụng.",
+      "so_chuong_ly_thuyet": 6,
+      "so_bai_thuc_hanh_chi_tiet": 6,
+      "ngon_ngu_cong_cu": [
+        ".NET framework",
+        ".NET Core",
+        "MVC Core",
+        "Web API Core"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1085",
+      "ten_mon": "Hệ thống quản trị doanh nghiệp",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 6,
+      "mo_ta_tom_tat": "Trang bị kiến thức và kỹ năng tổ chức, triển khai các hệ thống hỗ trợ quản lý và ra quyết định trong doanh nghiệp, bao gồm hệ thống thông tin quản lý và giải pháp Business Intelligence. Giúp sinh viên khảo sát vấn đề, giải quyết bài toán thực tế, thích nghi với môi trường doanh nghiệp và dự báo xu hướng phát triển.",
+      "so_chuong_ly_thuyet": 3,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [
+        "Business Intelligence"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1018"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1311",
+      "ten_mon": "Bảo mật cơ sở dữ liệu",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 6,
+      "mo_ta_tom_tat": "Cung cấp kiến thức và kỹ thuật nền tảng về bảo mật cơ sở dữ liệu, bao gồm các cơ chế, mô hình, kỹ thuật bảo mật, các kiểu tấn công và phương pháp bảo vệ. Giúp người học phân tích, thiết kế tăng cường an toàn cho dự án công nghệ phần mềm.",
+      "so_chuong_ly_thuyet": 6,
+      "so_bai_thuc_hanh_chi_tiet": 5,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1018"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1042",
+      "ten_mon": "Công nghệ JAVA",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 6,
+      "mo_ta_tom_tat": "Trang bị kiến thức và kỹ năng lập trình Java để xây dựng các giải pháp phần mềm từ ứng dụng cơ bản đến web và mạng, bao gồm lập trình GUI, kết nối CSDL với JDBC, lập trình mạng (TCP/IP Socket, RMI, CORBA) và ứng dụng Web (Java Servlet, JSP, AJAX).",
+      "so_chuong_ly_thuyet": 6,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [
+        "Java",
+        "J2ME",
+        "J2SE",
+        "J2EE",
+        "JDBC API",
+        "SQL",
+        "TCP/IP Socket",
+        "RMI",
+        "CORBA",
+        "Java Servlet",
+        "Java Server Page",
+        "AJAX"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1065",
+      "ten_mon": "Chuyên đề Oracle",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 6,
+      "mo_ta_tom_tat": "Trang bị kiến thức và kỹ năng thiết kế, phát triển, quản trị hệ thống cơ sở dữ liệu bằng Oracle, bao gồm SQL, SQL*plus, PL/SQL, Oracle Developer (Forms, Reports, Graphics). Giúp sinh viên phát triển năng lực giải quyết vấn đề, thích nghi với vai trò quản trị CSDL và nắm vững kỹ thuật quản trị hiện đại cho các ứng dụng thương mại điện tử và doanh nghiệp.",
+      "so_chuong_ly_thuyet": 5,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [
+        "SQL",
+        "SQL*plus",
+        "PL/SQL",
+        "Oracle",
+        "Oracle Developer",
+        "Oracle Forms",
+        "Reports",
+        "Graphics"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1018"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1504",
+      "ten_mon": "Thị giác máy tính và ứng dụng",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 7,
+      "mo_ta_tom_tat": "Cung cấp kiến thức về thị giác máy tính, cấu tạo và mô hình ảnh, rút trích và đối sánh đặc trưng (Haar-like, SIFT), nhận dạng (khuôn mặt, người đi bộ). Bao gồm tổng quan, hình học chiếu, mô hình camera, bộ lọc ảnh, xác định điểm đặc trưng và phân lớp ảnh.",
+      "so_chuong_ly_thuyet": 5,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [
+        "Haar-like",
+        "SIFT"
+      ],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1050"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1325",
+      "ten_mon": "Máy học nâng cao",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 7,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1712"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1084",
+      "ten_mon": "Thương mại điện tử",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 7,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1018"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1069",
+      "ten_mon": "Công nghệ phần mềm nâng cao",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 7,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1044"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1313",
+      "ten_mon": "Điện toán đám mây",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 45,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 45
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 7,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1015"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1809",
+      "ten_mon": "Thực hành nghề nghiệp",
+      "so_tin_chi": 3,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 30,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 30,
+        "tu_hoc": 0
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 7,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1410",
+      "ten_mon": "Thực tập nghề nghiệp 1",
+      "so_tin_chi": 2,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 0,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 100,
+        "tu_hoc": 0
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 7,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1811",
+      "ten_mon": "Thực tập nghề nghiệp 2",
+      "so_tin_chi": 5,
+      "loai_mon": "Bắt buộc",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 0,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 250,
+        "tu_hoc": 0
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 8,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [
+        "COMP1410"
+      ],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1083",
+      "ten_mon": "Khóa luận tốt nghiệp",
+      "so_tin_chi": 6,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 0,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 0
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 8,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1813",
+      "ten_mon": "Hồ sơ tốt nghiệp",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 0,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 0
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 8,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    },
+    {
+      "ma_mon": "COMP1830",
+      "ten_mon": "Sản phẩm nghiên cứu",
+      "so_tin_chi": 3,
+      "loai_mon": "Tự chọn",
+      "gio_hoc": {
+        "ly_thuyet_truc_tiep": 0,
+        "ly_thuyet_truc_tuyen": 0,
+        "thuc_hanh_thao_luan": 0,
+        "tu_hoc": 0
+      },
+      "don_vi_quan_ly": "K.CNTT",
+      "hoc_ky_du_kien": 8,
+      "mo_ta_tom_tat": null,
+      "so_chuong_ly_thuyet": null,
+      "so_bai_thuc_hanh_chi_tiet": null,
+      "ngon_ngu_cong_cu": [],
+      "mon_tien_quyet": [],
+      "mon_hoc_truoc": [],
+      "mon_song_hanh": [],
+      "dap_ung_plo": []
+    }
+  ],
+  "rules": [
+    {
+      "loai_quy_tac": "khac",
+      "mo_ta": "Người học chọn 4 tín chỉ trong các học phần tự chọn bắt buộc thuộc nhóm Học phần chung."
+    },
+    {
+      "loai_quy_tac": "khac",
+      "mo_ta": "Người học chọn 0 tín chỉ trong các học phần tự chọn bắt buộc thuộc nhóm Học phần chuyên môn chung cho nhóm ngành."
+    },
+    {
+      "loai_quy_tac": "khac",
+      "mo_ta": "Người học chọn 6 tín chỉ trong các học phần tự chọn bắt buộc thuộc nhóm Học phần chuyên môn chung lĩnh vực và riêng cho ngành cụ thể."
+    },
+    {
+      "loai_quy_tac": "khac",
+      "mo_ta": "Các ngành đặc thù có thể điều chỉnh, bổ sung một số học phần phù hợp nhưng cần đảm bảo tổng số tín chỉ của nhóm học phần nghiệp vụ trong khoảng 30-38 tín chỉ."
+    },
+    {
+      "loai_quy_tac": "khac",
+      "mo_ta": "Người học chọn 18 tín chỉ trong các học phần tự chọn bắt buộc thuộc nhóm Học phần nghiệp vụ cho nhóm ngành và riêng cho ngành."
+    },
+    {
+      "loai_quy_tac": "khoa_luan",
+      "mo_ta": "Người học chọn 01 trong 02 hình thức tốt nghiệp: Thực hiện một khóa luận (6 TC) hoặc Thực hiện một hồ sơ tốt nghiệp (3 TC) và một sản phẩm nghiên cứu (3 TC)."
+    },
+    {
+      "loai_quy_tac": "khac",
+      "mo_ta": "Các học phần Giáo dục thể chất và Giáo dục quốc phòng không tính vào tổng số tín chỉ của toàn khoá học và không tính vào điểm trung bình chung học kì và toàn khoá học."
+    }
+  ]
+}
